@@ -1,0 +1,111 @@
+/*
+Project Name: socialbutton
+Author: marine
+Published on: http://xoops123.com/
+*/
+
+#socialbutton_div {
+}
+.facebook_like {
+  float:left;
+	padding:5px 0 0 0;
+}
+.twitter {
+  float:left;
+	padding:5px 0 0 5px;
+}
+.evernote {
+  float:left;
+	padding:5px 0 0 5px;
+	margin:0 10px 0 0;
+}
+.google_plusone {
+  float:left;
+	padding:5px 0 0 5px;
+}
+.gree {
+  float:left;
+	padding:5px 0 0 5px;
+	margin:0 10px 0 0;
+}
+.hatena {
+  float:left;
+	padding:5px 0 0 5px;
+}
+
+
+/* Twitter */
+.mt-label {
+	width:100px;
+	height:45px;
+	background: url(twitter.png) no-repeat 20px 5px;
+  -moz-border-radius-topleft: 10px;
+  -webkit-border-top-left-radius: 10px;
+  -khtml-border-radius-topleft: 10px;
+  border-top-left-radius: 10px;
+  -moz-border-radius-topright: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -khtml-border-radius-topright: 10px;
+  border-top-right-radius: 10px;
+}
+.my-trackbacks {
+	padding: 10px 15px;
+	margin: 0 0 20px;
+	font-size: 13px;
+	background: #f1fde5;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+.my-trackbacks h3 {
+	padding: 0 5px 3px;
+	margin: 0 0 10px;
+	font-size: 13px;
+	font-weight: normal;
+	border: none;
+	border-bottom: 1px #9ad95c solid;
+}
+.my-trackbacks h3 span {
+	font-size: 12px;
+}
+.my-trackbacks p {
+	padding: 0 15px;
+}
+.my-trackbacks ul {
+	margin: 0;
+	padding: 0;
+}
+.my-trackbacks ul li {
+	padding: 3px 8px;
+	margin-bottom: 15px;
+	list-style-type: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+.my-trackbacks ul li img {
+	float: left;
+}
+.my-trackbacks ul li ul {
+	padding: 3px 8px;
+	margin: 0 0 0 60px;
+	background: #fff;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+.my-trackbacks ul li ul li {
+	margin: 0;
+	margin-right: 7px;
+	display: inline;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+.my-trackbacks ul li ul li.nick {
+	font-size: 14px;
+	font-weight: bold;
+}
+.my-trackbacks ul li ul li.date {
+	font-size: 11px;
+}
