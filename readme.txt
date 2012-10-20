@@ -47,6 +47,10 @@ data-href="http://xoops123.com" を　data-href="利用するサイトのURL"
 
 ●タイプ：htmlタグ
 
+
+★picoのページをカスタムブロックのように使うならこんな方法もあります。
+<div class="fb-comments" data-href="<{$xoops_url}><{$xoops_requesturi}>" data-num-posts="2" data-width="700"></div>
+
 ====================
 履歴
 ====================
